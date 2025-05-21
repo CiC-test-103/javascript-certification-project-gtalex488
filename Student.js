@@ -77,7 +77,6 @@ class Student {
   setEmail(newEmail) {
     this.#email = newEmail;
   }
-
   /**
    * REQUIRES:  The student's new specialization (String)
    * EFFECTS:   Modifies the student's specialization to match
